@@ -1,0 +1,8 @@
+# class shainaz():
+#     x=" she is from vizag"
+#     y=" and state:AP"
+# # print(shainaz.x)
+# # print(shainaz.y)
+# b=shainaz()
+# print(b.x)
+# print(b.y)
